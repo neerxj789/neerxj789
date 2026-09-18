@@ -1,10 +1,14 @@
 <div align="center">
 
+# Hi, I'm Neer 👋
 
-NEERAJ GOCHAR
-framesbyneer  ·  neer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Product+%26+Brand+Designer;Full-Stack+%26+Mobile+Developer;Building+products+end-to-end" alt="Typing SVG" />
+</a>
 
-**Product & Brand Designer**  ·  **Full-Stack & Mobile Developer**  
+<br/>
+
+**Product & Brand Designer** · **Full-Stack & Mobile Developer**  
 India · Remote · Freelancer
 
 [Website](https://framesbyneer.in) · [Email](mailto:framesbyneer@gmail.com) · [LinkedIn](https://linkedin.com/in/framesbyneer) · [X](https://x.com/framesbyneer)
@@ -15,92 +19,92 @@ India · Remote · Freelancer
 
 ### About
 
-I design and build digital products end-to-end — from brand identity and UI to full-stack web apps and native mobile applications.
+I design and ship digital products end-to-end — from brand identity and UI systems to full-stack web apps and native mobile applications.
 
-I work primarily with **React / Next.js**, **Flutter**, and **Supabase**, and I handle the complete design process in **Figma** and the Affinity suite.  
-Most of my work is self-initiated or for small businesses that need both strong branding and functional software.
+Most of my work lives at the intersection of **design** and **engineering**. I build tools that help small businesses and local brands operate and sell online.
 
-Currently focused on shipping **SaaS products** and tools that help local businesses sell and operate online.
+Currently focused on shipping SaaS products and refining product systems.
 
 ---
 
 ### Tech Stack
 
-**Development**  
-`React` · `Next.js` · `TypeScript` · `Flutter` · `Dart` · `Node.js` · `Supabase` · `Tailwind CSS` · `Vercel` · `GitHub`
+**Development**
 
-**Design**  
-`Figma` · `Affinity Suite` · `Canva`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Other**  
-`Meta Ads` · `Google Ads` · AI tools (Copilot, Gemini, AI Studio)
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-1B7287?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-#### 1. Originn  
+#### Originn
 **Shopify alternative for small & local brands**
 
-A storefront platform that lets small sellers list products and start selling without the cost or complexity of traditional e-commerce tools.  
-Includes a free tier and paid plans.
+A storefront platform that lets small sellers list products and start selling without the cost or complexity of traditional e-commerce tools. Includes free tier + paid plans.
 
-- **Stack**: React · Supabase · Tailwind CSS · Vercel  
-- **Status**: Public beta live  
-- **Link**: [originn.in](https://originn.in)
+**Stack:** React · Supabase · Tailwind CSS · Vercel  
+**Status:** Public beta live  
+**Link:** [originn.in](https://originn.in)
 
-#### 2. Untix  
+---
+
+#### Untix
 **Appointment booking for doctors & medical professionals**
 
-A clean Flutter app inspired by Cal.com, built specifically for medical practitioners.  
-Portfolio project — not yet published.
+A clean Flutter app inspired by Cal.com, built specifically for medical practitioners.
 
-- **Stack**: Flutter · Dart  
-- **Status**: Complete, unpublished
+**Stack:** Flutter · Dart  
+**Status:** Complete (unpublished)
 
-#### 3. Vault  
+---
+
+#### Vault
 **Local-first encrypted vault + expense tracker**
 
-A personal Android app for storing documents, images, passwords, and tracking expenses.  
-Everything stays on-device, encrypted, with password protection and screenshot prevention.  
-Data is wiped if the app is uninstalled (no cloud restore for now).
+Native Android app for storing documents, images, passwords and tracking expenses.  
+Everything stays on-device, encrypted, with password protection and screenshot prevention.
 
-- **Stack**: Kotlin · XML · Gradle (native Android)  
-- **Status**: Complete, unpublished (waiting on Play Console)
-
----
-
-### Design Work
-
-I also handle branding and visual identity for clients — logos, color systems, and typography.  
-Most websites I ship include the full brand system I designed.
+**Stack:** Kotlin · XML · Gradle  
+**Status:** Complete (unpublished)
 
 ---
 
-### Currently
+### Design + Ads
 
-- Shipping and iterating on **Originn**
-- Learning deeper SaaS architecture and product systems
-- Open to freelance product design + development work
+I also handle brand identity (logos, color systems, typography) and run Meta + Google Ads for clients.  
+Most websites I ship include the complete brand system designed by me.
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neerxj789&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerxj789&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=c9d1d9" />
+</div>
 
 ---
 
 ### Connect
 
-| Platform     | Link                                      |
-|--------------|-------------------------------------------|
-| Website      | [framesbyneer.in](https://framesbyneer.in) |
-| Email        | framesbyneer@gmail.com                    |
-| LinkedIn     | [framesbyneer](https://linkedin.com/in/framesbyneer) |
-| X            | [framesbyneer](https://x.com/framesbyneer) |
-| Instagram    | [framesbyneer](https://instagram.com/framesbyneer) |
-| Threads      | [framesbyneer](https://threads.net/@framesbyneer) |
-| Gumroad      | [framesbyneer](https://gumroad.com/framesbyneer) |
+[Website](https://framesbyneer.in) · [Email](mailto:framesbyneer@gmail.com) · [LinkedIn](https://linkedin.com/in/framesbyneer) · [X](https://x.com/framesbyneer) · [Instagram](https://instagram.com/framesbyneer) · [Threads](https://threads.net/@framesbyneer) · [Gumroad](https://gumroad.com/framesbyneer)
 
 ---
 
 <div align="center">
-<sub>Built with care · Always shipping</sub>
+<sub>Always shipping · Open to freelance work</sub>
 </div>
-```
-
