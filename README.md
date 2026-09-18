@@ -1,9 +1,8 @@
-<div align="center">
+<div align="left">
 
-```
+
 NEERAJ GOCHAR
 framesbyneer  ·  neer
-```
 
 **Product & Brand Designer**  ·  **Full-Stack & Mobile Developer**  
 India · Remote · Freelancer
