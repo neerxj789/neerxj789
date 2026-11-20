@@ -1,110 +1,57 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Neer 👋
+# Neer
+**Independent Designer & Developer** · `framesbyneer` · Rajasthan, India
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Product+%26+Brand+Designer;Full-Stack+%26+Mobile+Developer;Building+products+end-to-end" alt="Typing SVG" />
-</a>
+Designing brand systems and interfaces, then shipping them as production web and mobile software — solo, end-to-end.
 
 <br/>
 
-**Product & Brand Designer** · **Full-Stack & Mobile Developer**  
-India · Remote · Freelancer
-
-[Website](https://framesbyneer.in) · [Email](mailto:framesbyneer@gmail.com) · [LinkedIn](https://linkedin.com/in/framesbyneer) · [X](https://x.com/framesbyneer)
+<a href="https://framesbyneer.in"><img src="https://img.shields.io/badge/PORTFOLIO-4B30FC?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://kinetic.framesbyneer.in"><img src="https://img.shields.io/badge/KINETIC_ICONS-0A0A0A?style=for-the-badge" alt="Kinetic"/></a>
+<a href="https://x.com/framesbyneer"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge" alt="X"/></a>
+<a href="https://linkedin.com/in/framesbyneer"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:framesbyneer@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge" alt="Email"/></a>
 
 </div>
 
 ---
 
-### About
+### Selected Work
 
-I design and ship digital products end-to-end — from brand identity and UI systems to full-stack web apps and native mobile applications.
+| Project | Overview | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Kinetic](https://kinetic.framesbyneer.in)** | Monoline SVG icon library & package for npm and Flutter with live stroke and radius controls | `SVG` `npm` `Flutter` | ![Live](https://img.shields.io/badge/LIVE-4B30FC?style=flat-square) |
+| **[Originn](https://originn.in)** | Lightweight storefront platform for independent and local brands | `React` `Supabase` `Tailwind` | ![Beta](https://img.shields.io/badge/BETA-4B30FC?style=flat-square) |
+| **[Tapstack](https://tapstack.bio)** | Link-in-bio, mini-portfolio, and creator commerce platform | `React` `Supabase` `Vercel` | ![Building](https://img.shields.io/badge/BUILDING-18181B?style=flat-square) |
+| **[Outflow](https://github.com/neerxj789/outflow)** | Open-source web application built in public | `TypeScript` `React` | ![Open Source](https://img.shields.io/badge/OPEN_SOURCE-18181B?style=flat-square) |
 
-Most of my work lives at the intersection of **design** and **engineering**. I build tools that help small businesses and local brands operate and sell online.
-
-Currently focused on shipping SaaS products and refining product systems.
-
----
-
-### Tech Stack
-
-**Development**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-1B7287?style=for-the-badge&logo=affinitydesigner&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-### Featured Projects
+### Focus
 
-#### Originn
-**Shopify alternative for small & local brands**
-
-A storefront platform that lets small sellers list products and start selling without the cost or complexity of traditional e-commerce tools. Includes free tier + paid plans.
-
-**Stack:** React · Supabase · Tailwind CSS · Vercel  
-**Status:** Public beta live  
-**Link:** [originn.in](https://originn.in)
+* **Brand & UI Design** — Visual identity, typography, color architecture, and scalable interface systems built for production.
+* **Web & Mobile Engineering** — Full-stack web apps, SaaS platforms, Flutter apps, and native Android builds focused on speed and restraint.
+* **Product Direction** — Taking ideas from brand strategy and Figma prototypes straight to live deployments.
 
 ---
 
-#### Untix
-**Appointment booking for doctors & medical professionals**
+### Stack
 
-A clean Flutter app inspired by Cal.com, built specifically for medical practitioners.
+**Web** &nbsp;
+<kbd>Next.js</kbd> <kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>Node.js</kbd> <kbd>Supabase</kbd> <kbd>Vercel</kbd>
 
-**Stack:** Flutter · Dart  
-**Status:** Complete (unpublished)
+**Mobile** &nbsp;
+<kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Kotlin</kbd> <kbd>XML</kbd> <kbd>Gradle</kbd>
 
----
-
-#### Vault
-**Local-first encrypted vault + expense tracker**
-
-Native Android app for storing documents, images, passwords and tracking expenses.  
-Everything stays on-device, encrypted, with password protection and screenshot prevention.
-
-**Stack:** Kotlin · XML · Gradle  
-**Status:** Complete (unpublished)
+**Design** &nbsp;
+<kbd>Figma</kbd> <kbd>Affinity</kbd> <kbd>Framer</kbd> <kbd>Webflow</kbd>
 
 ---
 
-### Design + Ads
-
-I also handle brand identity (logos, color systems, typography) and run Meta + Google Ads for clients.  
-Most websites I ship include the complete brand system designed by me.
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neerxj789&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerxj789&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=c9d1d9" />
-</div>
-
----
-
-### Connect
-
-[Website](https://framesbyneer.in) · [Email](mailto:framesbyneer@gmail.com) · [LinkedIn](https://linkedin.com/in/framesbyneer) · [X](https://x.com/framesbyneer) · [Instagram](https://instagram.com/framesbyneer) · [Threads](https://threads.net/@framesbyneer) · [Gumroad](https://gumroad.com/framesbyneer)
-
----
-
-<div align="center">
-<sub>Always shipping · Open to freelance work</sub>
-</div>
+<sub>
+  Available for select branding, UI design, and product build collaborations ·
+  <a href="https://framesbyneer.in">framesbyneer.in</a> ·
+  <a href="mailto:framesbyneer@gmail.com">framesbyneer@gmail.com</a>
+</sub>
